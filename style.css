@@ -1,0 +1,12 @@
+body {
+   margin: 1em;
+    font-family: "DynaPuff", serif;
+    line-height: 2em;
+   
+}
+
+#yes {
+    background-color: red;
+    color: white;
+    font-size: 16px;
+}
